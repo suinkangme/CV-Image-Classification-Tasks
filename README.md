@@ -11,11 +11,11 @@
 
 | NAME | ID | 
 | --- |  --- | 
-| Hyun Soo Kim |  | 
-| Matthew Armstrong |  | 
+| Hyun Soo Kim | 40174913 | 
+| Matthew Armstrong | 40221458 | 
 | Phuong Thao Quach | 26369340 | 
-| Suin Kang |  | 
-| Zarren Ali |  | 
+| Suin Kang | 40129337 | 
+| Zarren Ali | 40162559 | 
 
 <br>
 
