@@ -116,7 +116,37 @@
 
 <h3>[ Instruction on how to train/validate your model ]</h3>
   
--
+ <p>All notebooks were written in Google Colab and are intended for use in Google Colab only. All notebooks are included in our zip submission.</p>
+    
+  <h4>Task 1: Training and Testing on Dataset 1</h4>
+  <p>For Task 1, open the notebook titled "task1_training_testing.ipynb".</p>
+  <ul>
+      <li>
+          <strong>To train the model:</strong> Run the codes above "Testing". If you want to save your own model, uncomment the code block starting with "<code># ONLY RUN THIS IF YOU ARE TRAINING FOR THE FIRS TIME. IF YOU ALREADY HAVE A MODEL, DO NOT RUN THIS PART AGAIN.</code>" If not, leave it as is.
+      </li>
+      <li>
+          <strong>To test the model:</strong>
+          <ol>
+              <li>Run all the code above "Testing" EXCEPT those cells where the model is trained and saved. This is to load the testing data.</li>
+              <li>Download the model "resnet18_model_98.pth" (which is included in our zip submission).</li>
+              <li>Move the pth file to the same directory as the notebook.</li>
+              <li>Run the code below "Testing".</li>
+          </ol>
+      </li>
+  </ul>
+
+  <h4>Task 2: Feature Extraction and Classification</h4>
+  <ul>
+      <li>
+          <strong>For Feature Extraction and tSNE:</strong> Run the notebook titled "Task2_Feature_Extraction.ipynb". If you want to save the extracted datasets as csv, run the code under "Save dataset to csv file". If not, leave these code blocks out.
+      </li>
+      <li>
+          <strong>For KNN classification:</strong> Run the notebook titled "Task2_KNN.ipynb".
+      </li>
+      <li>
+          <strong>For RF classification:</strong> Run the notebook titled "Task2_RF.ipynb".
+      </li>
+  </ul>
 
 <br>
 
