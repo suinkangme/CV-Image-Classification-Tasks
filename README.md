@@ -53,7 +53,7 @@
 <h3>[ Description on how to obtain the Dataset from an available download link ]</h3>
 <p>
   Download links for the datasets required for this assignment are provided below. The first three links lead to the project-required unprocessed data.
-  The datasets that follow were generated through feature extraction using both our pretrained ResNet18 model (trained in task 1) and a pretrained Resnet18 model using IMAGENET weights.
+  The datasets that follow were generated through feature extraction using both our pretrained ResNet18 model (trained in task 1) and a pretrained Resnet18 model using IMAGENET weights. The final three hyperlinks lead to sampled datasets 1, 2, and 3, each comprising 100 images. The classes are distributed evenly within each class for these sampled datasets (this is an approximation, however, since 100 images must be sampled for three classes, so one class must have one more image).
 </p>
 <ul>
   <li>
@@ -76,6 +76,15 @@
   </li>
   <li>
     <a href="https://drive.google.com/file/d/1SAkn3JoiVPNxvOQZ97BznVSEcu1fmHDy/view?usp=sharing">Dataset3 Extracted by ImageNet Model</a>
+  </li>
+  <li>
+    <a href="https://drive.google.com/file/d/1CMR7qOzlY66AFs7xSf4jnpCGqax4CPcA/view?usp=sharing">Sampled Dataset 1</a>
+  </li>
+  <li>
+    <a href="https://drive.google.com/file/d/1UlYZPCoX_rC1lJU8LG3rtYYn-cgzXOTb/view?usp=sharing">Sampled Dataset 2</a>
+  </li>
+  <li>
+    <a href="https://drive.google.com/file/d/1fJljKjN5unR16Qh7HeOsVF3jgYtwIQO-/view?usp=sharing">Sampled Dataset 3</a>
   </li>
 </ul>
 <br>
