@@ -175,7 +175,7 @@
   <p> To run the pre-trained models on the provided sample test datasets, follow the instructions below for each notebook: </p>
   <ul>
     <li>
-      For Task 1, open the notebook titled "task1_training_testing.ipynb", follow instructions on the following code cells. The instructions in the actual code might differ. If that is the case, follow the instructions in the actual notebook. 
+      For Task 1, open the notebook titled "task1_training_testing.ipynb", follow instructions on the following code cells. The instructions in the actual notebook might differ. If that is the case, follow the instructions in the actual notebook. 
       <ul>
         <li>Beside the sample dataset submitted in .zip file, it is already available via <code>gdown</code>, so you do not have to upload anything on your end.</li>
         <li>Pretrained model from Task 1 <strong><em>resnet18_model_98.pth</em></strong> is available via gdown in <code>3.Testing</code> block, like image below.</li>
@@ -188,6 +188,9 @@
     </li>
     <li>
       For Task 2, open the notebook titled "Task2_Feature_Extraction.ipynb", run the code cells one by one following instructions on the below code cells. The instructions in the actual notebook might differ. If that is the case, follow the instructions in the actual notebook. 
+      <ul>
+        <li>All the sample datasets are downloaded via <code>gdown</code> in the notebook, so you do not have to upload anything on your end.</li>
+      </ul>
       <br><br>
       <img width="589" alt="image" src="https://github.com/suinkangme/COMP432-GroupI/blob/main/img/sampleset23_1.png">
       <img width="589" alt="image" src="https://github.com/suinkangme/COMP432-GroupI/blob/main/img/sampleset23_2.png">
