@@ -112,6 +112,7 @@
   <li>Argparse (for parsing command-line options)</li>
   <li>TSNE (from Scikit-Learn for dimensionality reduction techniques)</li>
   <li>KNeighborsClassifier, GridSearchCV (from Scikit-Learn for machine learning models)</li>
+  <li>RandomForestClassifier (from Scikit-Learn for machine learning models)</li>
   <li>Classification metrics from Scikit-Learn (confusion_matrix, classification_report, etc.)</li>
 </ul>
 <p>
