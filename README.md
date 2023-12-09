@@ -132,7 +132,8 @@
   <p> Open the notebook - "task1_training_testing.ipynb".</p>
   <ul>
       <li>
-          <strong> How To Train? :</strong> Run the required libraries first, and the cell section '1. Data Loading and Preprocessing', and then '2. Training'. 
+          <strong> How To Train? </strong> 
+          Run the required libraries first, and the cell section '1. Data Loading and Preprocessing', and            then '2. Training'. 
       </li>
       <li>
           <strong> How To Test? :</strong>
