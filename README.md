@@ -141,7 +141,7 @@
       </li>
       <br>
       <li>
-          <strong> How To Test? :</strong>
+          <strong> How To Test?</strong>
           <ul>
               <li>No need to upload anything; the test run dataset is available for download via gdown.</li>
               <li>Use the saved model "resnet18_model_98.pth" (which is included in our zip submission).</li>
@@ -151,7 +151,8 @@
           </ul>
       </li>
   </ul>
-
+  <br>
+  
   <h4>Task 2: Feature Extraction and Classification</h4>
   <ul>
       <li>
