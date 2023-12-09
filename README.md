@@ -35,7 +35,7 @@
     <strong>CNN Encoder for Human Tissue Image Classification</strong>: This involves training a CNN encoder on a dataset of human tissue images to classify colon cancer (dataset 1). The outcomes are visualized using t-SNE (t-Distributed Stochastic Neighbor Embedding), a technique for high-dimensional data visualization.
   </li>
   <li>
-    <strong>Feature Extraction and Model Evaluation Across Datasets</strong>: Utilizing the trained CNN encoder from the first task and a pre-trained CNN encoder from ImageNet, features are extracted from two additional datasets: a prostate cancer dataset (dataset 2) and an animal faces dataset (dataset 3). The project then focuses on training both unsupervised and supervised machine learning models to evaluate and compare the performance of these CNN encoders across diverse datasets.
+    <strong>Feature Extraction and Model Evaluation Across Datasets</strong>: Utilizing the trained CNN encoder from the first task and a pre-trained CNN encoder from ImageNet, features are extracted from two additional datasets: a prostate cancer dataset (dataset 2) and an animal faces dataset (dataset 3). The project then focuses on training supervised machine learning models to evaluate and compare the performance of these CNN encoders across diverse datasets.
   </li>
 </ol>
 
