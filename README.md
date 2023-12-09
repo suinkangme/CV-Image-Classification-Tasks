@@ -147,6 +147,7 @@
               <li>Use the saved model "resnet18_model_98.pth" (which is included in our zip submission).</li>
               <li>Move the pth file to the same directory as the notebook.</li>
               <li>Run the cell section '3. Testing'.</li>
+              <li>Run the cell section '4. Feature extracion and t-SNE visualization'.</li>
           </ul>
       </li>
   </ul>
