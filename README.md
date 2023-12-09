@@ -124,9 +124,9 @@
 
 <br>
 
-<h3>[ Instruction on how to train/validate your model ]</h3>
+<h3>[ Instructions on how to train/validate your model ]</h3>
   
- <p>All notebooks were written in Google Colab and are intended for use in Google Colab only. All notebooks are included in our zip submission.</p>
+ <p>All notebooks were written in Google Colab and are intended for use in Google Colab only.</p>
     
   <h4>Task 1: Train the ResNet-18 model from the scratch, Test and Perform t-SNE on Dataset 1</h4>
   <p> Open the notebook - "task1_training_testing.ipynb".</p>
@@ -169,16 +169,17 @@
 <br>
 
 <h3>[ Instructions on how to run the pre-trained model on the provided sample test dataset ]</h3>
+  <p>All notebooks were written in Google Colab and are intended for use in Google Colab only.</p>
   <p> To run the pre-trained models on the provided sample test datasets, follow the instructions below for each notebook: </p>
   <ul>
     <li>
-      For task 1, open the notebook titled "task1_training_testing.ipynb", run the code cells one by one following instructions on the below code cells. The instructions in the actual code might differ. If that is the case, follow the instructions in the actual notebook. 
+      For task 1, open the notebook titled "task1_training_testing.ipynb", run the code cells one by one following instructions on the below code cells. The instructions in the actual notebook might differ. If that is the case, follow the instructions in the actual notebook. 
       <br><br>
       <img width="589" alt="image" src="https://github.com/suinkangme/COMP432-GroupI/blob/main/img/sampleset1_1.png">
       <img width="589" alt="image" src="https://github.com/suinkangme/COMP432-GroupI/blob/main/img/sampleset1_2.png">
     </li>
     <li>
-      For task 2, open the notebook titled "Task2_Feature_Extraction.ipynb", run the code cells one by one following instructions on the below code cells. The instructions in the actual code might differ. If that is the case, follow the instructions in the actual notebook. 
+      For task 2, open the notebook titled "Task2_Feature_Extraction.ipynb", run the code cells one by one following instructions on the below code cells. The instructions in the actual notebook might differ. If that is the case, follow the instructions in the actual notebook. 
       <br><br>
       <img width="589" alt="image" src="https://github.com/suinkangme/COMP432-GroupI/blob/main/img/sampleset23_1.png">
       <img width="589" alt="image" src="https://github.com/suinkangme/COMP432-GroupI/blob/main/img/sampleset23_2.png">
