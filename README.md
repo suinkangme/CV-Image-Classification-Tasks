@@ -102,8 +102,8 @@
 <p>Here is a comprehensive list of all the required libraries:</p>
 <ul>
   <li>NumPy</li>
-  <li>Matplotlib</li>
   <li>Pandas</li>
+  <li>Matplotlib</li>
   <li>Seaborn</li>
   <li>Scikit-Learn</li>
   <li>PyTorch (along with <code>torch.nn</code>, <code>torch.optim</code>, <code>torch.utils.data</code>, etc.)</li>
@@ -128,19 +128,19 @@
   
  <p>All notebooks were written in Google Colab and are intended for use in Google Colab only. All notebooks are included in our zip submission.</p>
     
-  <h4>Task 1: Training and Testing on Dataset 1</h4>
-  <p>For Task 1, open the notebook titled "task1_training_testing.ipynb".</p>
+  <h4>Task 1: Train the ResNet-18 model from the scratch, Test and Perform t-SNE on Dataset 1</h4>
+  <p> Open the notebook - "task1_training_testing.ipynb".</p>
   <ul>
       <li>
-          <strong>To train the model:</strong> Run the codes above "Testing" from the beginning. If you want to save your own model, uncomment the code block starting with "<code># ONLY RUN THIS IF YOU ARE TRAINING FOR THE FIRS TIME. IF YOU ALREADY HAVE A MODEL, DO NOT RUN THIS PART AGAIN.</code>" If not, leave it as is.
+          <strong> How To Train? :</strong> Run the required libraries first, and the cell section '1. Data Loading and Preprocessing', and then '2. Training'. 
       </li>
       <li>
-          <strong>To test the model:</strong>
+          <strong> How To Test? :</strong>
           <ol>
-              <li>Run all the code above "Testing" EXCEPT those cells where the model is trained and saved. This is to load the testing data.</li>
-              <li>Download the model "resnet18_model_98.pth" (which is included in our zip submission).</li>
+              <li>No need to upload anything; the test run dataset is available for download via gdown.</li>
+              <li>Use the saved model "resnet18_model_98.pth" (which is included in our zip submission).</li>
               <li>Move the pth file to the same directory as the notebook.</li>
-              <li>Run the code below "Testing" to the end.</li>
+              <li>Run the cell section '3. Testing'.</li>
           </ol>
       </li>
   </ul>
