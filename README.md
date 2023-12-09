@@ -126,17 +126,18 @@
 
 <h3>[ Instruction on how to train/validate your model ]</h3>
   
- <p>All notebooks were written in Google Colab and are intended for use in Google Colab only. All notebooks are included in our zip submission.</p>
+ <p>All notebooks were written in Google Colab and are intended for use in Google Colab only.</p>
     
   <h4>Task 1: Train the ResNet-18 model from the scratch, Test and Perform t-SNE on Dataset 1</h4>
   <p> Open the notebook - "task1_training_testing.ipynb".</p>
+  <p><strong>CAUTION:</strong> Every dataset is available via <code>gdown</code>in the notebook. However, depending on which dataset (original with 6000 images vs. sample with 100 images) you wish to use, read the instruction carefully in the notebook and adjust the codes accordingly (comment/uncomment)</p>
   <ul>
       <li>
           <strong> How To Train? </strong> 
           <ul>
               <li> Run the required libraries</li>
-              <li> Run the cell section '1. Data Loading and Preprocessing'</li>
-              <li> Run the cell section '2. Training' for training and validation</li>
+              <li> Run the cell section <code>1. Data Loading and Preprocessing</code> - By default, the sample dataset (100 images) will be loaded.</li>
+              <li> Run the cell section <code>2. Training</code> for training and validation</li>
           </ul>
       </li>
       <br>
@@ -144,10 +145,11 @@
           <strong> How To Test?</strong>
           <ul>
               <li>No need to upload anything; the test run dataset is available for download via gdown.</li>
-              <li>Use the saved model "resnet18_model_98.pth" (which is included in our zip submission).</li>
+              <li> Make sure you run the <code>1. Data Loading and Preprocessing</code> part.
+              <li>Pretrained model from Task 1 <strong><em>resnet18_model_98.pth</em></strong> is available via gdown in <code>3.Testing</code> block.</li>
               <li>Move the pth file to the same directory as the notebook.</li>
-              <li>Run the cell section '3. Testing'.</li>
-              <li>Run the cell section '4. Feature extracion and t-SNE visualization'.</li>
+              <li>Run the cell section <code>3. Testing</code>.</li>
+              <li>Run the cell section <code>4. Feature extracion and t-SNE visualization</code>.</li>
           </ul>
       </li>
   </ul>
@@ -172,7 +174,13 @@
   <p> To run the pre-trained models on the provided sample test datasets, follow the instructions below for each notebook: </p>
   <ul>
     <li>
-      For task 1, open the notebook titled "task1_training_testing.ipynb", follow instructions on the following code cells. The instructions in the actual code might differ. If that is the case, follow the instructions in the actual notebook. 
+      For Task 1, open the notebook titled "task1_training_testing.ipynb", follow instructions on the following code cells. The instructions in the actual code might differ. If that is the case, follow the instructions in the actual notebook. 
+      <ul>
+        <li>Beside the sample dataset submitted in .zip file, it is already available via <code>gdown</code>, so you do not have to upload anything on your end.</li>
+        <li>Pretrained model from Task 1 <strong><em>resnet18_model_98.pth</em></strong> is available via gdown in <code>3.Testing</code> block, like image below.</li>
+      </ul>
+      <br>
+      <img width="589", alt="image", src = "https://github.com/suinkangme/COMP432-GroupI/blob/main/img/model loading part.PNG">
       <br><br>
       <img width="589" alt="image" src="https://github.com/suinkangme/COMP432-GroupI/blob/main/img/sampleset1_1.png">
       <img width="589" alt="image" src="https://github.com/suinkangme/COMP432-GroupI/blob/main/img/sampleset1_2.png">
