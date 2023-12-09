@@ -133,16 +133,20 @@
   <ul>
       <li>
           <strong> How To Train? </strong> 
-          Run the required libraries first, and the cell section '1. Data Loading and Preprocessing', and            then '2. Training'. 
+          <ul>
+              <li> Run the required libraries <li>
+              <li> Run the cell section '1. Data Loading and Preprocessing'</li>
+              <li> Run the cell section '2. Training' for training and validation</li>
+          </ul>
       </li>
       <li>
           <strong> How To Test? :</strong>
-          <ol>
+          <ul>
               <li>No need to upload anything; the test run dataset is available for download via gdown.</li>
               <li>Use the saved model "resnet18_model_98.pth" (which is included in our zip submission).</li>
               <li>Move the pth file to the same directory as the notebook.</li>
               <li>Run the cell section '3. Testing'.</li>
-          </ol>
+          </ul>
       </li>
   </ul>
 
