@@ -172,13 +172,13 @@
   <p> To run the pre-trained models on the provided sample test datasets, follow the instructions below for each notebook: </p>
   <ul>
     <li>
-      For task 1, open the notebook titled "task1_training_testing.ipynb", follow instructions on the following code cells. The instructions in the actual code might differ. If that is the case, follow the instructions in the actual notebook. 
+      For task 1, open the notebook titled "task1_training_testing.ipynb", run the code cells one by one following instructions on the below code cells. The instructions in the actual code might differ. If that is the case, follow the instructions in the actual notebook. 
       <br><br>
       <img width="589" alt="image" src="https://github.com/suinkangme/COMP432-GroupI/blob/main/img/sampleset1_1.png">
       <img width="589" alt="image" src="https://github.com/suinkangme/COMP432-GroupI/blob/main/img/sampleset1_2.png">
     </li>
     <li>
-      For task 2, open the notebook titled "Task2_Feature_Extraction.ipynb", follow instructions on the following code cells. The instructions in the actual code might differ. If that is the case, follow the instructions in the actual notebook. 
+      For task 2, open the notebook titled "Task2_Feature_Extraction.ipynb", run the code cells one by one following instructions on the below code cells. The instructions in the actual code might differ. If that is the case, follow the instructions in the actual notebook. 
       <br><br>
       <img width="589" alt="image" src="https://github.com/suinkangme/COMP432-GroupI/blob/main/img/sampleset23_1.png">
       <img width="589" alt="image" src="https://github.com/suinkangme/COMP432-GroupI/blob/main/img/sampleset23_2.png">
