@@ -131,7 +131,7 @@
   <p>For Task 1, open the notebook titled "task1_training_testing.ipynb".</p>
   <ul>
       <li>
-          <strong>To train the model:</strong> Run the codes above "Testing". If you want to save your own model, uncomment the code block starting with "<code># ONLY RUN THIS IF YOU ARE TRAINING FOR THE FIRS TIME. IF YOU ALREADY HAVE A MODEL, DO NOT RUN THIS PART AGAIN.</code>" If not, leave it as is.
+          <strong>To train the model:</strong> Run the codes above "Testing" from the beginning. If you want to save your own model, uncomment the code block starting with "<code># ONLY RUN THIS IF YOU ARE TRAINING FOR THE FIRS TIME. IF YOU ALREADY HAVE A MODEL, DO NOT RUN THIS PART AGAIN.</code>" If not, leave it as is.
       </li>
       <li>
           <strong>To test the model:</strong>
@@ -139,7 +139,7 @@
               <li>Run all the code above "Testing" EXCEPT those cells where the model is trained and saved. This is to load the testing data.</li>
               <li>Download the model "resnet18_model_98.pth" (which is included in our zip submission).</li>
               <li>Move the pth file to the same directory as the notebook.</li>
-              <li>Run the code below "Testing".</li>
+              <li>Run the code below "Testing" to the end.</li>
           </ol>
       </li>
   </ul>
