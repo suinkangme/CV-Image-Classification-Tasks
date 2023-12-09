@@ -153,7 +153,7 @@
   </ul>
   <br>
   
-  <h4>Task 2: Feature Extraction and Classification</h4>
+  <h4>Task 2: Feature Extraction and Classification on Datasets 2 and 3</h4>
   <ul>
       <li>
           <strong>For Feature Extraction and tSNE:</strong> Run the notebook titled "Task2_Feature_Extraction.ipynb". If you want to save the extracted datasets as csv, run the code under "Save dataset to csv file". If not, leave these code blocks out.
