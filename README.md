@@ -134,11 +134,12 @@
       <li>
           <strong> How To Train? </strong> 
           <ul>
-              <li> Run the required libraries <li>
+              <li> Run the required libraries</li>
               <li> Run the cell section '1. Data Loading and Preprocessing'</li>
               <li> Run the cell section '2. Training' for training and validation</li>
           </ul>
       </li>
+      <br>
       <li>
           <strong> How To Test? :</strong>
           <ul>
