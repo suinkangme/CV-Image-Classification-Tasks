@@ -7,14 +7,14 @@
 <br>
 
 <h3>[ Course ]</h3>
-- COMP432 Machine Learning 
+- COMP432 : Machine Learning 
 <br>
 <br>
 
 <h3>[ Team ]</h3>
 
 | NAME |
-| --- |  --- | 
+| --- |
 | Hyun Soo Kim | 
 | Matthew Armstrong | 
 | Phuong Thao Quach | 
