@@ -1,9 +1,13 @@
-## COMP432 - Group I
+## Computer Vision Project-Image Classification Tasks
 
 <h3>[ Duration ]</h3>
 - September 22nd, 2023 to December 5th, 2023 (2023 FALL, Concordia University)
 
+<br>
+<br>
 
+<h3>[ Course ]</h3>
+- COMP432 Machine Learning 
 <br>
 <br>
 
